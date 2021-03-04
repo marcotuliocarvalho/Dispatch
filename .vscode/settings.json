@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "listitem.h": "c",
+        "dispatch.h": "c",
+        "stdbool.h": "c"
+    }
+}
